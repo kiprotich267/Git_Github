@@ -1,0 +1,1 @@
+function showAlert(){alert("hello! This is a simple javascript alert.")}
